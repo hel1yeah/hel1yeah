@@ -20,11 +20,18 @@ Here are some ideas to get you started:
 
 
 
-## MY TECHNOLOGY STACK AND TOOLS
+## MY TECHNOLOGY STACK AND TOOLS ##
 ![Vue](/images/vue.svg 'Vue')
 ![Vuetify](/images/vuetify.svg 'Vuetify')
 ![HTML](/images/html5.svg 'HTML')
 ![CSS](/images/css3.svg 'CSS')
 ![JavaScript](/images/js-es6.svg 'JavaScript')
 ![Git](/images/git.svg 'Git')
+
+
+## MY CONTACTS ##
+
+[<img src="./images/hel1-logo.svg">](https://hel1yeah.github.io)
+[<img src="./images/linkedin.svg">](https://www.linkedin.com/in/yura-larsen)
+[<img src="./images/telegram.svg">](https://t.me/hel1_yeah)
 
