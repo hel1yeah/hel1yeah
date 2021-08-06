@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 ## MY TECHNOLOGY STACK AND TOOLS
-![Vue](/images/vue.svg)
-![Vuetify](/images/vuetify.svg)
-![HTML](/images/html5.svg)
-![CSS](/images/css3.svg)
-![JS](/images/js-es6.svg)
-![Git](/images/git.svg)
+![Vue](/images/vue.svg 'Vue')
+![Vuetify](/images/vuetify.svg 'Vuetify')
+![HTML](/images/html5.svg 'HTML')
+![CSS](/images/css3.svg 'CSS')
+![JavaScript](/images/js-es6.svg 'JavaScript')
+![Git](/images/git.svg 'Git')
 
