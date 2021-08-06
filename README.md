@@ -1,4 +1,4 @@
-### Hi there 👋
+😎  Hey! Nice to see you.
 
 <!--
 **hel1yeah/hel1yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😎  Hey! Nice to see you.
+
