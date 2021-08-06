@@ -1,6 +1,6 @@
 # 😎  Hey! Nice to see you. #
 
-# ![Альтернативный текст](/gif/en.gif "Подсказка")
+# ![Альтернативный текст](/gif/en.gif "you underestimate my power")
 
 
 <!--
@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+## MY TECHNOLOGY STACK AND TOOLS
+![Vue](/images/vue.svg)
+![HTML](/images/html5.svg)
+![CSS](/images/css3.svg)
+![JS](/images/JS.svg)
+![Git](/images/git.svg)
 
