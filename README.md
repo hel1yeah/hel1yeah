@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 [<img src="./images/hel1-logo.svg">](https://hel1yeah.github.io)
 [<img src="./images/linkedin.svg">](https://www.linkedin.com/in/yura-larsen)
 [<img src="./images/telegram.svg">](https://t.me/hel1_yeah)
+[<img src="./images/facebook.svg">](https://www.facebook.com/YuraLarsen)
 
