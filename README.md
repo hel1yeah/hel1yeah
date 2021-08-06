@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![Vue](/images/vue.svg)
-![Vue](/images/vuetify.svg)
+![Vuetify](/images/vuetify.svg)
 ![HTML](/images/html5.svg)
 ![CSS](/images/css3.svg)
 ![JS](/images/js.svg)
