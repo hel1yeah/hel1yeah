@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ![Vuetify](/images/vuetify.svg)
 ![HTML](/images/html5.svg)
 ![CSS](/images/css3.svg)
-![JS](/images/js.svg)
+![JS](/images/js-es6.svg)
 ![Git](/images/git.svg)
 
