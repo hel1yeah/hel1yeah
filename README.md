@@ -1,4 +1,7 @@
-😎  Hey! Nice to see you.
+# 😎  Hey! Nice to see you. #
+
+![Альтернативный текст]('./gif/en.gif' "Подсказка")
+
 
 <!--
 **hel1yeah/hel1yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
